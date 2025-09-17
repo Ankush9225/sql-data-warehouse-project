@@ -82,4 +82,4 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm **Ankush**. I’m an doing Masters from National Institute of technology Calicut and I am  passionate on  working with data .
+Hi there! I'm **Ankush**. I’m an doing Masters from National Institute of technology Calicut and I am  passionate on  working with data and learning new Technologies.
